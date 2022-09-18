@@ -40,3 +40,6 @@ Following are the steps to be used to execute the code :
 ### Time Complexity :
 Since we haven't used a very compact way to implement this code, the time Complexity is a bit higher than expected.However, we are working on optimizing the Complexity as much as possible.
 
+##Requirement :
+One have to create a init file to import the MovieRecom package.
+
